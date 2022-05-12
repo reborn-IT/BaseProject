@@ -1,8 +1,11 @@
 /* eslint-disable max-len */
-import React from 'react';
+import React from "react";
 
 function RoundedInput({
-  type ="text", placeholder = "sample placeholder", onChange, extraTailwindClasses="",
+  type = "text",
+  placeholder = "sample placeholder",
+  onChange,
+  extraTailwindClasses = "",
 }) {
   return (
     <input

@@ -1,5 +1,10 @@
-export { default as CommonRoundedButton } from './CommonRoundedButton';
-export { default as FAQComponent } from './FAQComponent';
-export { default as ModalCloseButton } from './ModalCloseButton';
-export { default as RoundedInput } from './RoundedInput';
-export { default as SearchableDropDown } from './SearchableDropdown';
+export { default as StandartButton } from "./StandartButton";
+export { default as FAQComponent } from "./FAQComponent";
+export { default as ModalCloseButton } from "./ModalCloseButton";
+export { default as RoundedInput } from "./RoundedInput";
+export { default as SearchableDropDown } from "./SearchableDropdown";
+export { default as IconButton } from "./IconButton";
+export { default as CircularAvatar } from "./Avatar/CircularAvatar";
+export { default as StandardAvatar } from "./Avatar/StandardAvatar";
+export { default as DotIndicatedAvatar } from "./Avatar/DotIndicatedAvatar";
+export { default as AvatarProfile } from "./Avatar/AvatarProfile";

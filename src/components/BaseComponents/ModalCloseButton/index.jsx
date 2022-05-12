@@ -1,5 +1,5 @@
 /* eslint-disable max-len */
-import React from 'react';
+import React from "react";
 function ModalCloseButton({ ClickHandler }) {
   return (
     <button
